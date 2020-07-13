@@ -1,0 +1,24 @@
+{
+	"name": "hexo-theme-alice",
+	"version": "0.0.1",
+	"description": "一个简单的 hexo 主题",
+	"main": "index.js",
+	"scripts": {},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/alex-techs/hexo-theme-alice.git"
+	},
+	"keywords": [
+		"hexo",
+		"theme",
+		"hexo-theme",
+		"alice-theme",
+		"alice"
+	],
+	"author": "alex",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/alex-techs/hexo-theme-alice/issues"
+	},
+	"homepage": "https://github.com/alex-techs/hexo-theme-alice#readme"
+}
