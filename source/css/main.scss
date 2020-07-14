@@ -1,0 +1,24 @@
+html {
+	background-color: #fff;
+	-webkit-font-smoothing: antialiased;
+
+	body {
+		font-family: 'PingHei', 'PingFang SC', Helvetica Neue, 'Work Sans', 'Hiragino Sans GB', 'Microsoft YaHei', SimSun, sans-serif;
+		font-size: 15px;
+		width: 100%;
+		background-color: #fff;
+		padding: 0;
+		margin: 0;
+
+		.banner {
+			overflow: hidden;
+
+			img {
+				width: 100%;
+				height: 100%;
+			}
+		}
+	}
+}
+
+

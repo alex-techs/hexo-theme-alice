@@ -3,7 +3,9 @@
 	"version": "0.0.1",
 	"description": "一个简单的 hexo 主题",
 	"main": "index.js",
-	"scripts": {},
+	"scripts": {
+		"sass": "sass --watch source/css/ --no-source-map"
+	},
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/alex-techs/hexo-theme-alice.git"
